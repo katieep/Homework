@@ -1,0 +1,171 @@
+"id","District","intervention","course_status","skilled","female","age","sa8","sa8_a","sa25","score_percent","treated","post","treated_post"
+323,"Kibaha Rural","Control","year 1","Yes","male",50,"diploma","               ","Strongly agree",0.5,0,1,0
+333,"Kibaha Rural","Control","year 1","No","female",59,"other","Standard seven","Somewhat agree",0.620000004768372,0,1,0
+342,"Bagamoyo","Control","year 1","Yes","female",34,"other","STD VII","Strongly agree",0.419999986886978,0,1,0
+345,"Mkuranga","Intervention","year 1","No","female",42,"certificate","               ","Strongly agree",0.189999997615814,1,1,1
+352,"Bagamoyo","Intervention","year 1","Yes","male",61,"diploma","               ","Somewhat agree",0.529999971389771,1,1,1
+355,"Bagamoyo","Intervention","year 1","Yes","male",41,"diploma","               ","Somewhat agree",0.649999976158142,1,1,1
+364,"Bagamoyo","Intervention","year 1","Yes","female",46,"diploma","               ","Strongly agree",0.569999992847443,1,1,1
+367,"Kisarawe","Control","year 1","Yes","male",66,"diploma","               ","Strongly agree",0.479999989271164,0,1,0
+371,"Kibaha Rural","Control","year 1","No","female",65,"standard 7","               ","Strongly agree",0.870000004768372,0,1,0
+393,"Bagamoyo","Control","year 1","No","female",56,"standard 7","               ","Strongly agree",0.709999978542328,0,1,0
+399,"Kibaha Rural","Intervention","year 1","Yes","male",38,"diploma","               ","Strongly agree",0.629999995231628,1,1,1
+405,"Mkuranga","Control","year 1","Yes","female",32,"certificate","               ","Strongly agree",0.479999989271164,0,1,0
+418,"Kisarawe","Intervention","year 1","No","female",40,"certificate","               ","Somewhat disagree",0.360000014305115,1,1,1
+421,"Mkuranga","Control","year 1","Yes","female",45,"diploma","               ","Somewhat disagree",0.550000011920929,0,1,0
+433,"Kibaha Rural","Control","year 1","Yes","female",44,"certificate","               ","Strongly agree",0.330000013113022,0,1,0
+458,"Kisarawe","Control","year 1","No","female",52,"standard 7","               ","Strongly agree",0.370000004768372,0,1,0
+462,"Kisarawe","Intervention","year 1","No","female",35,"certificate","               ","Strongly agree",0.280000001192093,1,1,1
+465,"Kisarawe","Intervention","year 1","No","female",37,"certificate","               ","Strongly agree",0.829999983310699,1,1,1
+468,"Mkuranga","Intervention","year 1","Yes","female",47,"certificate","               ","Strongly agree",0.519999980926514,1,1,1
+484,"Bagamoyo","Intervention","year 1","Yes","female",56,"standard 7","               ","Strongly agree",0.430000007152557,1,1,1
+518,"Bagamoyo","Control","year 1","No","female",47,"certificate","               ","Strongly agree",0.970000028610229,0,1,0
+524,"Kisarawe","Control","year 1","No","female",48,"standard 7","               ","Somewhat agree",0.779999971389771,0,1,0
+528,NA,"Control","year 1","No","female",42,"certificate","               ","Strongly agree",0.639999985694885,0,1,0
+543,"Bagamoyo","Intervention","year 1","No","female",52,"certificate","               ","Strongly agree",0.379999995231628,1,1,1
+550,"Kisarawe","Control","year 1","No","female",47,"standard 7","               ","Strongly agree",0.00999999977648258,0,1,0
+562,"Kibaha Rural","Intervention","year 1","No","female",39,"certificate","               ","Somewhat agree",0.879999995231628,1,1,1
+565,"Kisarawe","Control","year 1","No","female",60,"standard 7","               ","Somewhat agree",0.649999976158142,0,1,0
+568,"Kisarawe","Control","year 1","Yes","male",52,"diploma","               ","Strongly agree",0.479999989271164,0,1,0
+571,"Kisarawe","Control","year 1","No","female",65,"standard 7","               ","Somewhat agree",0.200000002980232,0,1,0
+581,"Kisarawe","Control","year 1","Yes","male",52,"diploma","               ","Somewhat agree",0.469999998807907,0,1,0
+587,"Bagamoyo","Intervention","year 1","No","female",42,"certificate","               ","Strongly agree",0.639999985694885,1,1,1
+590,"Kibaha Rural","Control","year 1","No","female",66,"certificate","               ","Strongly agree",0.370000004768372,0,1,0
+597,"Kisarawe","Control","year 1","Yes","female",41,"certificate","               ","Strongly agree",0.469999998807907,0,1,0
+600,"Bagamoyo","Control","year 1","No","female",57,"standard 7","               ","Strongly agree",0.860000014305115,0,1,0
+606,"Kisarawe","Intervention","year 1","Yes","female",51,"certificate","               ","Somewhat agree",0.430000007152557,1,1,1
+609,"Bagamoyo","Control","year 1","No","female",54,"standard 7","               ","Strongly agree",0.589999973773956,0,1,0
+619,"Kisarawe","Intervention","year 1","Yes","female",46,"certificate","               ","Strongly agree",0.419999986886978,1,1,1
+628,"Mkuranga","Control","year 1","No","male",55,"standard 7","               ","Somewhat agree",0.629999995231628,0,1,0
+637,"Kisarawe","Intervention","year 1","No","male",59,"standard 7","               ","Strongly agree",0.180000007152557,1,1,1
+641,"Mkuranga","Intervention","year 1","Yes","male",71,"certificate","               ","Strongly agree",0.600000023841858,1,1,1
+647,"Kibaha Rural","Intervention","year 1","Yes","female",55,"certificate","               ","Strongly agree",0.370000004768372,1,1,1
+650,"Kisarawe","Control","year 1","No","female",39,"certificate","               ","Strongly agree",0.109999999403954,0,1,0
+666,NA,"Control","year 1","No","female",66,"standard 7","               ","Strongly agree",0.639999985694885,0,1,0
+678,"Bagamoyo","Intervention","year 1","Yes","female",39,"diploma","               ","Somewhat agree",0.670000016689301,1,1,1
+685,"Kibaha Rural","Control","year 1",NA,"male",NA,"diploma","               ","Somewhat agree",0.509999990463257,0,1,0
+722,"Bagamoyo","Intervention","year 1","Yes","female",61,"standard 7","               ","Strongly agree",0.400000005960464,1,1,1
+735,"Kisarawe","Intervention","year 1","Yes","female",33,"diploma","               ","Somewhat agree",0.529999971389771,1,1,1
+967,"Mkuranga","Intervention","year 1","No","female",49,"certificate","               ","Strongly agree",0.870000004768372,1,1,1
+1115,"Kisarawe","Intervention","year 1","No","female",39,"certificate","               ","Strongly disagree",0.00999999977648258,1,1,1
+1118,"Kisarawe","Intervention","year 1",NA,"male",43,"certificate","               ","Strongly agree",0.519999980926514,1,1,1
+1121,"Bagamoyo","Intervention","year 1","No","female",34,"certificate","               ","Somewhat agree",0.490000009536743,1,1,1
+1140,"Bagamoyo","Control","year 1","Yes","female",38,"certificate","               ","Strongly agree",0.529999971389771,0,1,0
+1199,NA,"Control","year 1","Yes","male",48,"diploma","               ","Somewhat agree",0.550000011920929,0,1,0
+1206,"Bagamoyo","Control","year 1","Yes","male",51,"diploma","               ","Somewhat agree",0.430000007152557,0,1,0
+1212,"Kisarawe","Intervention","year 1","No","female",33,"certificate","               ","Strongly agree",0.850000023841858,1,1,1
+1300,"Bagamoyo","Intervention","year 1","No","female",62,"certificate","               ","Strongly agree",0.610000014305115,1,1,1
+1394,"Kibaha Rural","Control","year 1","Yes","female",46,"diploma","               ","Somewhat agree",0.550000011920929,0,1,0
+2839,"Bagamoyo","Control","year 1","Yes","male",62,"diploma","               ","Strongly agree",0.449999988079071,0,1,0
+2867,"Kisarawe","Intervention","year 1","Yes","female",47,"standard 7","               ","Strongly agree",0.519999980926514,1,1,1
+632085,"Bagamoyo","Control","year 1","Yes","male",36,"diploma","               ","Somewhat agree",0.5,0,1,0
+632088,"Bagamoyo","Control","year 1","Yes","female",42,"diploma","               ","Strongly disagree",0.579999983310699,0,1,0
+632091,"Bagamoyo","Intervention","year 1","No","female",34,"certificate","               ","Strongly agree",0.639999985694885,1,1,1
+632095,"Kibaha Rural","Intervention","year 1","No","female",36,"certificate","               ","Strongly agree",0.449999988079071,1,1,1
+632098,"Kibaha Rural","Intervention","year 1",NA,"male",33,"diploma","               ","Strongly agree",0.140000000596046,1,1,1
+632101,"Kibaha Rural","Intervention","year 1","No","female",44,"certificate","               ","Strongly agree",0.540000021457672,1,1,1
+632104,"Kibaha Rural","Control","year 1",NA,"female",43,"certificate","               ","Strongly agree",0.930000007152557,0,1,0
+632107,"Kibaha Rural","Intervention","year 1","Yes","female",31,"certificate","               ","Strongly agree",0.519999980926514,1,1,1
+632110,"Kibaha Rural","Intervention","year 1","Yes","female",31,"certificate","               ","Somewhat agree",0.430000007152557,1,1,1
+632113,"Kisarawe","Control","year 1","No","female",33,"certificate","               ","Strongly agree",0.860000014305115,0,1,0
+632117,"Kisarawe","Control","year 1","Yes","female",32,"diploma","               ","Strongly agree",0.529999971389771,0,1,0
+632120,NA,"Control","year 1","No","female",30,"certificate","               ","Strongly agree",0.660000026226044,0,1,0
+632123,"Bagamoyo","Intervention","year 1","Yes","female",42,"certificate","               ","Strongly agree",0.620000004768372,1,1,1
+632126,"Bagamoyo","Intervention","year 1","No","female",33,"certificate","               ","Strongly agree",0.100000001490116,1,1,1
+632129,"Bagamoyo","Intervention","year 1","Yes","female",NA,"diploma","               ","Strongly agree",0.519999980926514,1,1,1
+632132,"Kibaha Rural","Control","year 1","Yes","male",47,"degree","               ","Somewhat agree",0.550000011920929,0,1,0
+632135,"Kisarawe","Intervention","year 1","Yes","male",36,"diploma","               ","Somewhat agree",0.469999998807907,1,1,1
+632139,"Kisarawe","Control","year 1","Yes","female",31,"diploma","               ","Somewhat agree",0.569999992847443,0,1,0
+632142,"Kisarawe","Control","year 1","Yes","female",42,"diploma","               ","Somewhat agree",0.569999992847443,0,1,0
+632145,"Kisarawe","Intervention","year 1","No","female",50,"standard 7","               ","Strongly agree",0.550000011920929,1,1,1
+632148,"Kisarawe","Intervention","year 1","Yes","female",32,"diploma","               ","Somewhat agree",0.550000011920929,1,1,1
+632151,"Mkuranga","Control","year 1","No","female",45,"certificate","               ","Strongly agree",0.730000019073486,0,1,0
+632154,"Mkuranga","Intervention","year 1","No","female",41,"certificate","               ","Strongly agree",0.779999971389771,1,1,1
+632157,"Mkuranga","Control","year 1","No","female",38,"certificate","               ","Strongly agree",0.529999971389771,0,1,0
+632161,"Mkuranga","Control","year 1","No","female",55,"certificate","               ","Strongly agree",0.310000002384186,0,1,0
+632164,"Mkuranga","Control","year 1","No","female",35,"certificate","               ","Somewhat disagree",0.159999996423721,0,1,0
+323,"Kibaha Rural","Control","baseline","Yes","male",49,"diploma","               ","Strongly agree",0.569999992847443,0,0,0
+333,"Kibaha Rural","Control","baseline","No","female",62,"other","Standard seven","Strongly agree",0.540000021457672,0,0,0
+342,"Bagamoyo","Control","baseline","Yes","female",35,"other","STD VII","Strongly agree",0.370000004768372,0,0,0
+345,"Mkuranga","Intervention","baseline","No","female",41,NA,"",NA,0.00999999977648258,1,0,0
+352,"Bagamoyo","Intervention","baseline","Yes","male",60,"diploma","               ","Somewhat agree",0.5,1,0,0
+355,"Bagamoyo","Intervention","baseline","Yes","male",39,"diploma","               ","Somewhat agree",0.469999998807907,1,0,0
+364,"Bagamoyo","Intervention","baseline","Yes","female",44,"diploma","               ","Somewhat agree",0.550000011920929,1,0,0
+367,"Kisarawe","Control","baseline","Yes","male",65,"diploma","               ","Strongly agree",0.449999988079071,0,0,0
+371,"Kibaha Rural","Control","baseline","No","female",61,"diploma","               ","Strongly agree",0.310000002384186,0,0,0
+377,"Kibaha Rural","Control","baseline","Yes","female",49,"diploma","               ","Strongly agree",0.25,0,0,0
+380,"Mkuranga","Intervention","baseline","Yes","female",46,"diploma","               ","Strongly agree",0.400000005960464,1,0,0
+383,"Kibaha Rural","Intervention","baseline","Yes","female",57,"diploma","               ","Strongly agree",0.280000001192093,1,0,0
+386,"Kibaha Rural","Intervention","baseline","No","male",40,"diploma","               ","Somewhat agree",0.5,1,0,0
+393,"Bagamoyo","Control","baseline","No","female",56,"diploma","               ","Strongly agree",0.899999976158142,0,0,0
+396,"Bagamoyo","Control","baseline","Yes","female",36,"diploma","               ","Strongly agree",0.449999988079071,0,0,0
+399,"Kibaha Rural","Intervention","baseline","Yes","male",38,"diploma","               ","Strongly agree",0.620000004768372,1,0,0
+405,"Mkuranga","Control","baseline","Yes","female",48,"diploma","               ","Strongly agree",0.519999980926514,0,0,0
+418,"Kisarawe","Intervention","baseline","No","female",37,"other","MEDICAL ATTEND ","Somewhat disagree",0.360000014305115,1,0,0
+421,"Mkuranga","Control","baseline","Yes","female",44,"diploma","               ","Somewhat agree",0.519999980926514,0,0,0
+433,"Kibaha Rural","Control","baseline","Yes","female",43,"diploma","               ","Strongly agree",0.319999992847443,0,0,0
+436,"Mkuranga","Intervention","baseline","Yes","male",44,"diploma","               ","Somewhat disagree",0.529999971389771,1,0,0
+443,"Mkuranga","Intervention","baseline","No","male",49,"standard 7","STD VII        ","Strongly agree",0.519999980926514,1,0,0
+446,"Mkuranga","Intervention","baseline","No","female",42,"diploma","               ","Somewhat agree",0.629999995231628,1,0,0
+458,"Kisarawe","Control","baseline","No","female",49,"standard 7","STD VII        ","Strongly agree",0.600000023841858,0,0,0
+462,"Kisarawe","Intervention","baseline","No","female",34,"diploma","               ","Strongly agree",0.569999992847443,1,0,0
+465,"Kisarawe","Intervention","baseline","No","female",37,"diploma","               ","Strongly agree",0.430000007152557,1,0,0
+468,"Mkuranga","Intervention","baseline","Yes","female",45,"diploma","               ","Strongly agree",0.600000023841858,1,0,0
+484,"Bagamoyo","Intervention","baseline","Yes","female",56,"diploma","               ","Strongly agree",0.330000013113022,1,0,0
+487,"Mkuranga","Control","baseline","Yes","female",48,"diploma","               ","Strongly agree",0.449999988079071,0,0,0
+493,"Bagamoyo","Control","baseline","No","female",38,"diploma","               ","Strongly agree",0.980000019073486,0,0,0
+518,"Bagamoyo","Control","baseline","No","female",47,"other","RCHA           ","Strongly agree",0.949999988079071,0,0,0
+524,"Kisarawe","Control","baseline","No","female",46,"diploma","               ","Somewhat agree",0.920000016689301,0,0,0
+540,"Kisarawe","Intervention","baseline","No","male",43,"diploma","               ","Somewhat agree",0.959999978542328,1,0,0
+543,"Bagamoyo","Intervention","baseline","No","female",49,"diploma","               ","Strongly agree",0.219999998807907,1,0,0
+550,"Kisarawe","Control","baseline","No","female",47,"diploma","               ","Strongly agree",0.330000013113022,0,0,0
+562,"Kibaha Rural","Intervention","baseline","No","female",37,"diploma","               ","Somewhat agree",0.600000023841858,1,0,0
+565,"Kisarawe","Control","baseline","No","female",49,"diploma","               ","Strongly agree",0.100000001490116,0,0,0
+568,"Kisarawe","Control","baseline","Yes","female",51,"diploma","               ","Strongly agree",0.419999986886978,0,0,0
+571,"Kisarawe","Control","baseline","No","female",64,"diploma","               ","Strongly agree",0.660000026226044,0,0,0
+581,"Kisarawe","Control","baseline","Yes","male",51,"diploma","               ",NA,0.430000007152557,0,0,0
+587,"Bagamoyo","Intervention","baseline","No","female",41,"other","MEDICAL ATTEND ","Strongly agree",0.00999999977648258,1,0,0
+590,"Kibaha Rural","Control","baseline","Yes","female",65,"diploma","               ","Strongly agree",0.379999995231628,0,0,0
+597,"Kisarawe","Control","baseline","Yes","female",38,"diploma","               ","Strongly agree",0.569999992847443,0,0,0
+600,"Bagamoyo","Control","baseline","No","female",56,"diploma","               ","Strongly agree",0.100000001490116,0,0,0
+606,"Kisarawe","Intervention","baseline","Yes","female",50,"diploma","               ","Strongly agree",0.349999994039536,1,0,0
+609,"Bagamoyo","Control","baseline","No","female",52,"diploma","               ","Strongly agree",0.0299999993294477,0,0,0
+619,"Kisarawe","Intervention","baseline","Yes","female",45,"diploma","               ","Strongly agree",0.529999971389771,1,0,0
+625,"Bagamoyo","Intervention","baseline","Yes","female",44,"diploma","               ","Somewhat disagree",0.519999980926514,1,0,0
+628,"Mkuranga","Control","baseline","No","male",55,NA,"               ","Strongly agree",0.829999983310699,0,0,0
+631,"Kibaha Rural","Intervention","baseline","Yes","female",36,"diploma","               ","Strongly agree",0.330000013113022,1,0,0
+637,"Kisarawe","Intervention","baseline","No","male",58,"diploma","               ","Somewhat agree",0.0799999982118607,1,0,0
+641,"Mkuranga","Intervention","baseline","Yes","male",70,"diploma","               ","Strongly agree",0.449999988079071,1,0,0
+644,"Bagamoyo","Intervention","baseline","No","female",52,"diploma","               ","Strongly agree",0.910000026226044,1,0,0
+647,"Kibaha Rural","Intervention","baseline","Yes","female",54,"diploma","               ","Strongly agree",0.300000011920929,1,0,0
+650,"Kisarawe","Control","baseline","No","female",39,"diploma","               ","Strongly agree",0.569999992847443,0,0,0
+653,"Kibaha Rural","Intervention","baseline","Yes",NA,NA,NA,"",NA,0.170000001788139,1,0,0
+666,"Kibaha Rural","Control","baseline","No","female",65,"diploma","               ","Strongly agree",0.180000007152557,0,0,0
+669,"Kisarawe","Intervention","baseline","Yes","male",53,"diploma","               ","Strongly agree",0.430000007152557,1,0,0
+672,"Kibaha Rural","Control","baseline","Yes","female",48,"diploma","               ","Strongly agree",0.469999998807907,0,0,0
+678,"Bagamoyo","Intervention","baseline","Yes","female",38,"diploma","               ","Somewhat agree",0.579999983310699,1,0,0
+685,"Kibaha Rural","Control","baseline","Yes","male",NA,"diploma","               ","Strongly agree",0,0,0,0
+722,"Bagamoyo","Intervention","baseline","Yes","female",60,"diploma","               ","Strongly agree",0.430000007152557,1,0,0
+735,"Kisarawe","Intervention","baseline","Yes","female",32,"diploma","               ","Strongly agree",0.569999992847443,1,0,0
+741,"Bagamoyo","Intervention","baseline","No","male",62,"diploma","               ","Strongly agree",0.829999983310699,1,0,0
+744,"Bagamoyo","Control","baseline","Yes","male",39,"diploma","               ","Somewhat agree",0.75,0,0,0
+967,"Mkuranga","Intervention","baseline","No","female",48,NA,"",NA,0.109999999403954,1,0,0
+1033,"Kibaha Rural","Intervention","baseline","No",NA,NA,NA,"",NA,0.239999994635582,1,0,0
+1046,"Kibaha Rural","Intervention","baseline","Yes",NA,NA,NA,"",NA,0.75,1,0,0
+1068,"Mkuranga","Intervention","baseline","No",NA,NA,NA,"",NA,0.740000009536743,1,0,0
+1115,"Kisarawe","Intervention","baseline","No","female",38,NA,"",NA,0.740000009536743,1,0,0
+1118,"Kisarawe","Intervention","baseline","Yes",NA,NA,NA,"",NA,0.449999988079071,1,0,0
+1121,"Bagamoyo","Intervention","baseline","No","female",33,NA,"",NA,0.150000005960464,1,0,0
+1140,"Bagamoyo","Control","baseline","Yes","female",37,"diploma","               ","Strongly agree",0.579999983310699,0,0,0
+1165,"Kisarawe","Intervention","baseline","No",NA,NA,NA,"",NA,0.0500000007450581,1,0,0
+1171,"Mkuranga","Intervention","baseline","No",NA,NA,NA,"",NA,0.769999980926514,1,0,0
+1199,"Kibaha Rural","Intervention","baseline","Yes","male",48,"diploma","               ","Somewhat agree",0.569999992847443,1,0,0
+1212,"Kisarawe","Intervention","baseline","No","female",32,NA,"",NA,0.550000011920929,1,0,0
+1269,"Mkuranga","Intervention","baseline","No",NA,NA,NA,"",NA,0.449999988079071,1,0,0
+1300,"Bagamoyo","Intervention","baseline","No","female",61,"diploma","               ","Strongly agree",0.259999990463257,1,0,0
+1313,"Mkuranga","Intervention","baseline","No",NA,NA,NA,"",NA,0.779999971389771,1,0,0
+1394,"Kibaha Rural","Control","baseline","Yes","female",45,NA,"",NA,0.0299999993294477,0,0,0
+2603,"Kisarawe","Intervention","baseline","No","female",30,"diploma","               ","Strongly agree",0.150000005960464,1,0,0
+2619,"Kibaha Rural","Intervention","baseline","No","female",31,"diploma","               ","Somewhat agree",0.0299999993294477,1,0,0
+2839,"Bagamoyo","Control","baseline","Yes","male",61,"diploma","               ","Somewhat agree",0.419999986886978,0,0,0
+2867,"Kisarawe","Intervention","baseline","Yes","female",45,"diploma","               ","Strongly agree",0.430000007152557,1,0,0
